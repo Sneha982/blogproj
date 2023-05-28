@@ -1,2 +1,2 @@
 hello from remote repo
-updated with latest
+updated with latest-today
